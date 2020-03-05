@@ -1,1 +1,5 @@
 welcome
+git push
+git log
+git status
+git add file1.txt commit -m "version6"
